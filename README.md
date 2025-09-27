@@ -23,7 +23,7 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-B2DFDB?style=flat-square&logo=Instagram&logoColor=000000)](https://www.instagram.com/tav.r.lilian/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-B2DFDB?style=flat-square&logo=WhatsApp&logoColor=000000)](https://wa.me/17744771735)
-![Discord](https://img.shields.io/badge/Discord-B2DFDB?style=flat-square&logo=Discord&logoColor=000000) lilian.r.tav
+![Discord](https://img.shields.io/badge/Discord-B2DFDB?style=flat-square&logo=Discord&logoColor=000000)
 
 [![Telegram](https://img.shields.io/badge/Telegram-B2DFDB?style=flat-square&logo=Telegram&logoColor=000000)](https://t.me/Tav_R_Lilian)
 [![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/tav-r-lilian/)
