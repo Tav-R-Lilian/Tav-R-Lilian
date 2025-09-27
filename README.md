@@ -6,6 +6,10 @@
   </a>
 </p> 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tav-R-Lilian&style=flat-square&color=B2DFDB" align="right" alt="Profile Views" />
+</p>
+
 <br>
 
 <div align="center">
