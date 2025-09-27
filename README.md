@@ -16,8 +16,6 @@
 | :-: | :-: |
 
 </div>
-
-<div align="center">
   
 <div align="center">
   
@@ -32,6 +30,21 @@
 
 </div>
 
-</div>
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+
+  <br>
+
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+
+</p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=959BB5&section=footer&reversal=true)" alt="rodapé" width="1050">
