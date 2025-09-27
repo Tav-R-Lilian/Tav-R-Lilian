@@ -1,4 +1,4 @@
-  <img src="55FF4ECA-E55D-428E-8DEA-546258DD396A.GIF" alt="cabeçalho" width="2000">
+  <img src="55FF4ECA-E55D-428E-8DEA-546258DD396A.GIF" alt="cabeçalho" width="1050">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -53,5 +53,7 @@
   <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
 
 </p>
+
+  <img src="" alt="cabeçalho" width="500">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=959BB5&section=footer&reversal=true)" alt="rodapé" width="1050">
