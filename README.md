@@ -24,6 +24,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/tav-r-lilian/)
 [![Gmail](https://img.shields.io/badge/Gmail-B2DFDB?style=flat-square&logo=Gmail&logoColor=000000)](mailto:lilianribeitav@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-B2DFDB?style=flat-square&logo=WhatsApp&logoColor=000000)](https://wa.me/17744771735)
+[![Telegram](https://img.shields.io/badge/Telegram-B2DFDB?style=flat-square&logo=Telegram&logoColor=000000)](https://t.me/Tav_R_Lilian)
+
 
 
 </div>
