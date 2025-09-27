@@ -7,9 +7,10 @@
 </p> 
 
 <br>
+
 <div align="center">
   
-  |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tav-R-Lilian&theme=nord_dark&utcOffset=8)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tav-R-Lilian&theme=nord_dark&utcOffset=8)
   | :-: | :-: | :-: |
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tav-R-Lilian&theme=nord&hide_border=falso&border_radius=&short_numbers=)](https://git.io/streak-stats)|
@@ -27,7 +28,6 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/tav-r-lilian/)
 [![Gmail](https://img.shields.io/badge/Gmail-B2DFDB?style=flat-square&logo=Gmail&logoColor=000000)](mailto:lilianribeitav@gmail.com)
 
-
 </div>
 
 <p align="center">
@@ -37,6 +37,13 @@
   <img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+
+  <br>
+  
+  <img src="https://img.shields.io/badge/Node-000000?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
 
   <br>
 
