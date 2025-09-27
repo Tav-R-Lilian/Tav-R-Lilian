@@ -14,5 +14,13 @@
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tav-R-Lilian&theme=nord&hide_border=falso&border_radius=&short_numbers=)](https://git.io/streak-stats)|
 | :-: | :-: |
+
+</div>
+
+<div align="center">
   
+![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftav-r-lilian%2F)
+
+</div>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=959BB5&section=footer&reversal=true)" alt="rodapé" width="1050">
