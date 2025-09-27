@@ -19,7 +19,11 @@
 
 <div align="center">
   
-![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftav-r-lilian%2F)
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/tav-r-lilian/)
+
+</div>
 
 </div>
 
