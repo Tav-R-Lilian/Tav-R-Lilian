@@ -1,16 +1,18 @@
-## Hi there 👋
+  <img src="55FF4ECA-E55D-428E-8DEA-546258DD396A.GIF" alt="cabeçalho" width="2000">
 
-<!--
-**Tav-R-Lilian/Tav-R-Lilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" />
+  </a>
+</p> 
 
-Here are some ideas to get you started:
+<br>
+<div align="center">
+  
+  |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tav-R-Lilian&theme=nord_dark&utcOffset=8)
+  | :-: | :-: | :-: |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tav-R-Lilian&theme=nord&hide_border=falso&border_radius=&short_numbers=)](https://git.io/streak-stats)|
+| :-: | :-: |
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=959BB5&section=footer&reversal=true)" alt="rodapé" width="1050">
