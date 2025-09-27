@@ -22,6 +22,7 @@
 <div align="center">
   
 [![Linkedin](https://img.shields.io/badge/Linkedin-B2DFDB?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/tav-r-lilian/)
+[![Gmail](https://img.shields.io/badge/Gmail-B2DFDB?style=flat-square&logo=Gmail&logoColor=000000)](mailto:lilianribeitav@gmail.com)
 
 </div>
 
