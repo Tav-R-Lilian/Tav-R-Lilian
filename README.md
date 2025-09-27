@@ -54,6 +54,6 @@
 
 </p>
 
-  <img src="" alt="cabeçalho" width="500">
+  <img src="https://images.steamusercontent.com/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Spreen Google Dinosaur" width="500">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=959BB5&section=footer&reversal=true)" alt="rodapé" width="1050">
