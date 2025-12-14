@@ -30,7 +30,7 @@ Currently, I’m a **Software Engineering student** at **Centro Universitário d
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tav-R-Lilian&theme=nord_dark&utcOffset=8)
   | :-: | :-: | :-: |
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=Tav-R-Lilian&theme=nord&hide_border=true)](https://git.io/streak-stats)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=Tav-R-Lilian&theme=nord&hide_border=false)](https://git.io/streak-stats)|
 | :-: | :-: |
 
 </div>
