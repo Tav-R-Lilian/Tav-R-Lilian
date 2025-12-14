@@ -23,10 +23,6 @@ Currently, I’m a **Software Engineering student** at **Centro Universitário d
 
 </details>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tav-R-Lilian&style=flat-square&color=B2DFDB" align="right" alt="Profile Views" />
-</p>
-
 <br>
 
 <div align="center">
@@ -34,7 +30,7 @@ Currently, I’m a **Software Engineering student** at **Centro Universitário d
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tav-R-Lilian&theme=nord_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tav-R-Lilian&theme=nord_dark&utcOffset=8)
   | :-: | :-: | :-: |
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=Tav-R-Lilian&theme=nord)](https://git.io/streak-stats)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tav-R-Lilian&theme=nord_dark)|[![GitHub Streak](https://streak-stats.demolab.com?user=Tav-R-Lilian&theme=nord&hide_border=true)](https://git.io/streak-stats)|
 | :-: | :-: |
 
 </div>
