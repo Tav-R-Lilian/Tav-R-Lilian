@@ -42,7 +42,7 @@ Currently, I’m a **Software Engineering student** at **Centro Universitário d
 [![Gmail](https://img.shields.io/badge/Gmail-B2DFDB?style=flat-square&logo=Gmail&logoColor=000000)](mailto:lilianribeitav@gmail.com)
   
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-B2DFDB?style=flat-square&logo=WhatsApp&logoColor=000000)](https://wa.me/17744771735)
-![Discord](https://img.shields.io/badge/Discord-B2DFDB?style=flat-square&logo=Discord&logoColor=000000)
+[![Discord](https://img.shields.io/badge/Discord-B2DFDB?style=flat-square&logo=discord&logoColor=000000)](https://discord.gg/cP4ET7Xz)
 
 </div>
 
