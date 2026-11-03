@@ -3,24 +3,21 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" /> </a> </p>
 
 ### Sobre mim
-Me chamo Lilian Tavares, tenho 22 anos, sou de **Minas Gerais (MG)** e concluí o ensino médio com curso técnico em informática.  
-Atualmente sou estudante de **Engenharia de Software** no **Centro Universitário da Grande Dourados (UNIGRAN)**.  
+Sou estudante de Engenharia de Software na UNIGRAN, com formação técnica em Informática e interesse em desenvolvimento de software.
 
-🚀 Estou no início da minha jornada na área de tecnologia e aprendendo **desenvolvimento Full Stack**, explorando do front-end ao back-end.  
-🎯 Meu objetivo é crescer como desenvolvedora e construir projetos que unam aprendizado, prática e inovação.  
+Tenho direcionado meus estudos para o desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript, React e MySQL, aplicando esses conhecimentos na construção de projetos práticos.
+
+Busco oportunidades para desenvolver minhas habilidades, contribuir com equipes de tecnologia e evoluir profissionalmente por meio de desafios reais.
 
 <details>
   <summary>🌍 English</summary>
 
 ### About Me
-Hi, I’m Lílian 👋  
+I'm a Software Engineering student at UNIGRAN, with a technical background in Informatics and a strong interest in software development.
 
-I’m 22 years old, from **MG, Brazil**, and completed high school with a technical course in Informatics.  
-Currently, I’m a **Software Engineering student** at **Centro Universitário da Grande Dourados (UNIGRAN)**.  
+I'm currently focused on web development, with knowledge of HTML, CSS, JavaScript, React, and MySQL, applying these skills to practical projects.
 
-🚀 I’m at the beginning of my journey in tech, learning **Full Stack Development** and exploring both front-end and back-end.  
-🎯 My goal is to grow as a developer and build projects that combine learning, practice, and innovation.  
-
+I'm seeking opportunities to strengthen my technical skills, contribute to technology teams, and grow professionally through real-world challenges.
 </details>
 
 <br>
