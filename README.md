@@ -3,23 +3,42 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" /> </a> </p>
 
 ### 🎯 Sobre mim
-Sou estudante de Engenharia de Software na UNIGRAN, com formação técnica em Informática e interesse em desenvolvimento de software.
 
-Tenho direcionado meus estudos para o desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript, React e MySQL, aplicando esses conhecimentos na construção de projetos práticos.
 
-Busco oportunidades para desenvolver minhas habilidades, contribuir com equipes de tecnologia e evoluir profissionalmente por meio de desafios reais.
+<table>
+  <tr>
+    <td width="50%" valign="middle">
 
-<details>
-  <summary>🌍 English</summary>
+<pre>
+lilian@github:~$ whoami
 
-### About Me
-I'm a Software Engineering student at UNIGRAN, with a technical background in Informatics and a strong interest in software development.
+Sou desenvolvedora em formação, interessada em engenharia de software e na criação de soluções para problemas reais.
 
-I'm currently focused on web development, with knowledge of HTML, CSS, JavaScript, React, and MySQL, applying these skills to practical projects.
+lilian@github:~$ what_i_do
 
-I'm seeking opportunities to strengthen my technical skills, contribute to technology teams, and grow professionally through real-world challenges.
-</details>
+Desenvolvimento Full Stack, construção de interfaces e integração de dados.
 
+lilian@github:~$ tech_stack
+
+HTML5 · CSS3 · JavaScript · React · MySQL · Git · GitHub
+
+lilian@github:~$ vision
+
+Construir sistemas confiáveis, eficientes e bem estruturados.
+
+lilian@github:~$ beyond_code
+
+Pensamento crítico, comunicação, autonomia e resolução de problemas.
+
+lilian@github:~$ _
+</pre>
+
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="55FF4ECA-E55D-428E-8DEA-546258DD396A.GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <div align="center">
