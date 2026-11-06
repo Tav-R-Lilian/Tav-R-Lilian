@@ -3,13 +3,14 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" /> </a> </p>
 
 ### 🎯 Sobre mim
-<img width="400" height="62" alt="Image" src="https://github.com/user-attachments/assets/ccd95828-0630-4af8-af1f-063cbd429889" />
-
+<p align="center">
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/dec779be-52b2-4112-8000-4edbd31ac931" />
 <img
   src="https://github.com/user-attachments/assets/37c7507c-7084-445b-a946-dcc4499cea48"
   width="400"
   alt="Imagem de apresentação"
 />
+</p>
 <br>
 
 <div align="center">
