@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" /> </a> </p>
 
-### Sobre mim
+### 🎯 Sobre mim
 Sou estudante de Engenharia de Software na UNIGRAN, com formação técnica em Informática e interesse em desenvolvimento de software.
 
 Tenho direcionado meus estudos para o desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript, React e MySQL, aplicando esses conhecimentos na construção de projetos práticos.
