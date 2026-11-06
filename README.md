@@ -3,42 +3,15 @@
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=5010&pause=1000&color=BAC3DC&width=600&lines=Hi%2C+I%E2%80%99m+Lilian!;Software+Engineering+Student;Full+Stack+Developer+in+training" alt="Typing SVG" /> </a> </p>
 
 ### 🎯 Sobre mim
-
-
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-
-<pre>
-lilian@github:~$ whoami
-
-Sou desenvolvedora em formação, interessada em engenharia de software e na criação de soluções para problemas reais.
-
-lilian@github:~$ what_i_do
-
-Desenvolvimento Full Stack, construção de interfaces e integração de dados.
-
-lilian@github:~$ tech_stack
-
-HTML5 · CSS3 · JavaScript · React · MySQL · Git · GitHub
-
-lilian@github:~$ vision
-
-Construir sistemas confiáveis, eficientes e bem estruturados.
-
-lilian@github:~$ beyond_code
-
-Pensamento crítico, comunicação, autonomia e resolução de problemas.
-
-lilian@github:~$ _
-</pre>
-
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="55FF4ECA-E55D-428E-8DEA-546258DD396A.GIF" width="100%" />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github.com/user-attachments/assets/37c7507c-7084-445b-a946-dcc4499cea48"
+  width="400"
+  alt="Imagem de apresentação"/>
+<img
+  src="https://github.com/user-attachments/assets/37c7507c-7084-445b-a946-dcc4499cea48"
+  width="400"
+  alt="Imagem de apresentação"
+/>
 <br>
 
 <div align="center">
